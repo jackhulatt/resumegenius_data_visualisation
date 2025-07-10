@@ -1,0 +1,24 @@
+region,country,industry,metric_type,value,period_start,period_end,unit,notes
+US,United States,Tech & IT,percentage_points,37.9,2019,2022,pp,Share of workers fully remote
+US,United States,Publishing,percentage_points,35.9,2019,2022,pp,Share of workers fully remote
+US,United States,Data Processing,percentage_points,34.1,2019,2022,pp,Share of workers fully remote
+US,United States,Insurance Carriers,percentage_points,30.6,2019,2022,pp,Share of workers fully remote
+US,United States,Securities & Futures,percentage_points,25.8,2019,2022,pp,Share of workers fully remote
+US,United States,Funds & Trusts,percentage_points,25.8,2019,2022,pp,Share of workers fully remote
+US,United States,Management Companies,percentage_points,24.6,2019,2022,pp,Share of workers fully remote
+US,United States,Federal Reserve Banks,percentage_points,24.5,2019,2022,pp,Share of workers fully remote
+US,United States,Broadcasting & Telecom,percentage_points,23.7,2019,2022,pp,Share of workers fully remote
+US,United States,Professional Services,percentage_points,20.2,2019,2022,pp,Share of workers fully remote
+EU,European Union,All Industries,percentage_points,8.0,2019,2021,pp,EU-27 average remote-work share
+EU,Sweden,All Industries,percentage_points,32.8,2019,2021,pp,Stockholm region
+EU,Ireland,All Industries,percentage_points,33.1,2019,2021,pp,E. & Midland region
+LatAm,Argentina,All Industries,percentage_points,19.95,2020,2022,pp,LinkedIn telework share
+LatAm,Colombia,All Industries,percentage_points,80.8,2020,2022,pp,LinkedIn telework share
+Global,Global,Healthcare,yoy_growth,21,2024,2025,percent,Remote job posts YoY increase
+Global,Global,Market Research,share_growth,86,2024,2025,percent,Remote job share growth
+Global,Global,Defense & Space,share_growth,80,2024,2025,percent,Remote job share growth
+Global,Global,Leisure Travel,share_growth,61,2024,2025,percent,Remote job share growth
+Asia,Singapore,All Industries,policy_survey,45,2024,2025,percent,Companies allowing ≤4-day office
+Asia,Japan,All Industries,policy_survey,40,2024,2025,percent,Companies allowing ≤4-day office
+Asia,China,All Industries,policy_survey,40,2024,2025,percent,Companies requiring 5-day onsite (inverted)
+Asia,HK/Malaysia/Thailand,All Industries,policy_survey,50,2024,2025,percent,Companies adopting hybrid work
